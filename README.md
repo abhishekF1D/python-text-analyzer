@@ -102,7 +102,7 @@ This project helps beginners understand Python functions, string manipulation, r
 
 ## Author
 
-Add your name here.
+Abhishek kumar.
 
 ## License
 
